@@ -111,6 +111,7 @@ Votes       → Map<(Address, Address), i128>
 ```
 Deployed Contract: [CAWUF2KUORQMH2RQFQLFGGWPC6WXXID3PEGYZPQAHGW7EN5A4Z4L5MBL]
 ```
+![image alt](Screenshot 2026-03-20 142556.png)
 
 ---
 
