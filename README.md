@@ -112,7 +112,7 @@ Votes       → Map<(Address, Address), i128>
 Deployed Contract: [CAWUF2KUORQMH2RQFQLFGGWPC6WXXID3PEGYZPQAHGW7EN5A4Z4L5MBL]
 ```
 ![image alt](https://github.com/Surajit0704/dapp_reputation_system/blob/ebefa379712217238a425888c6c7853ff9cef267/Screenshot%202026-03-20%20152942.png)
-![image alt](https://github.com/Surajit0704/dapp_reputation_system/blob/cdfc7ffd7f0e0b8823b025f6261d0df63dfac033/Screenshot%202026-03-20%20154027.png)
+![image alt](https://github.com/Surajit0704/dapp_reputation_system/blob/d35744fbc4c85452f95ff005b5cd3284e0e2b99c/UI_SS.png)
 
 ---
 
